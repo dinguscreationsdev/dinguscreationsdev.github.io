@@ -1,0 +1,16 @@
+ body {
+    font-family: 'Comic Sans MS', sans-serif;
+    text-align: center
+  }
+
+  body {
+    background-color: violet;
+  }
+
+  .funnybutton {
+    background-color: pink;
+  }
+
+  .funnybutton:hover {
+    background-color: purple;
+  }
